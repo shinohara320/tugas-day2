@@ -159,5 +159,6 @@ button{
     font-size: 15px;
     border: 1px solid #000;
     border-radius: 20px;
+    cursor: pointer;
 }
 /* contact form */
